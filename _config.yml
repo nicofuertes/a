@@ -189,7 +189,7 @@ collections:
     permalink: /:collection/:path/
   paper_one:
     output: true
-    permalink: /:paper_one/:path/
+    permalink: /:collection/:path/
 
 
 
