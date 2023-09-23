@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of the website.
+This is the front page of the website. AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 
 A data-driven personal website
 ======
