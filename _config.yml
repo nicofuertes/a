@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Musa Malik"
+title                    : "Anna Jaskiewicz"
 title_separator          : "-"
-name                     : &name "Musa Malik"
+name                     : &name "Anna Jaskiewicz"
 description              : &description "personal description"
-url                      : https://musa-malik.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://anna-jaskiewicz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "musa-malik/musa-malik.github.io"
+repository               : "anna-jaskiewicz/anna-jaskiewicz.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Musa Malik"
+  name             : "Anna Jaskiewicz"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
