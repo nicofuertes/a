@@ -15,14 +15,6 @@ A data-driven personal website
 
 Getting started
 ======
-1. 
-
-Site-wide configuration
-------
-
-
-Create content & metadata
-------
 
 For more info
 ------
