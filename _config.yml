@@ -187,6 +187,10 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  paper_one:
+    output: true
+    permalink: /:paper_one/:path/
+
 
 
 # Defaults
