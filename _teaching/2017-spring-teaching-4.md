@@ -1,10 +1,10 @@
 ---
-title: "ECON 10A: Intermediate Microeconomic Theory and ECON 5: Statistics for Economics"
+title: "ECON 10A: Intermediate Microeconomic Theory and ECON 107A: History of Economics"
 collection: teaching
-type: "Head Teaching Assistant"
+type: "Teaching Assistant"
 permalink: /teaching/2015-spring-teaching-1
-date: 2023-01-01
+date: 2020-01-01
 venue: "UC Santa Barbara"
 ---
 
-I coordinated a team of up to 17 Teaching Assistants, serving over 700 students. I facilitated the switch to remote learning during COVID-19 pandemic (set up Zoom discussion sections and office hours, implemented online assignments and exams). I created grading rubrics and led exam grading sessions to ensure inter-grader consistency. I also facilitated the transition from ParScore to GradeScope for grading of multiple-choice exam questions. Lastly, I set up and administered Moodle and Canvas course pages as well as managed email communication with students.
+ I led in-person discussion sections with up to 25 undergraduate students and held held in-person and Zoom office hours. I graded exams and essay assignments as well as proctored exams.
