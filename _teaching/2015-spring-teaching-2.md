@@ -1,14 +1,15 @@
 ---
-title: "Teaching experience 2"
+title: "INT 93LS: Pain and Prejudice - The Role of Discrimination in Generating Disparities in Health "
 collection: teaching
-type: "Workshop"
+type: "Instructor of Record and Course Author"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "University of California, Santa Barbara"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+    * Designed an original, undergraduate-level summer course discussing the social scientific scholarship on the status and origins of health inequities in the United States
+    * Evaluated applications for the course and selected a cohort of 30 students
+    * Recruited, designed ASE contracts for, and coordinated a team of two Teaching Assistants 
+    * Mentored student groups working on empirical research projects related to health disparities
 
 Heading 1
 ======
