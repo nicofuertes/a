@@ -9,4 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-
+Download my recently updated CV here:
+http://academicpages.github.io/files/paper1.pdf
