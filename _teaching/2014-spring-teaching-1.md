@@ -1,5 +1,3 @@
-
-
 ---
 title: "ECON 10A: Intermediate Microeconomic Theory and ECON 107A: History of Economics"
 collection: teaching
