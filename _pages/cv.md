@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Download my recently updated CV [here](http://anna-jaskiewicz.github.io/files/TEST_CV.pdf)
+Download my recently updated CV [here!](http://anna-jaskiewicz.github.io/files/AnnaJaskiewicz_CV.pdf)
