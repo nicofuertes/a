@@ -8,15 +8,3 @@ venue: "UC Santa Barbara"
 ---
 
 I designed an original, undergraduate-level summer course discussing the social scientific scholarship on the status and origins of health inequities in the United States. I evaluated applications for the course, selecting a cohort of 30 students. I also recruited, designed ASE contracts for, and coordinated a team of two Teaching Assistants. Throughout the course, I mentored student groups working on empirical research projects related to health disparities.
-
-
----
-title: "ECON 10A: Intermediate Microeconomic Theory and ECON 107A: History of Economics"
-collection: teaching
-type: "Teaching Assistant"
-permalink: /teaching/2015-spring-teaching-1
-date: 2020-01-01
-venue: "UC Santa Barbara"
----
-
- I led in-person discussion sections with up to 25 undergraduate students and held held in-person and Zoom office hours. I graded exams and essay assignments as well as proctored exams.
