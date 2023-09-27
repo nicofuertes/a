@@ -7,10 +7,7 @@ date: 2023-01-01
 venue: "UC Santa Barbara"
 ---
 
-  Designed an original, undergraduate-level summer course discussing the social scientific scholarship on the status and origins of health inequities in the United States
-  Evaluated applications for the course and selected a cohort of 30 students
-  Recruited, designed ASE contracts for, and coordinated a team of two Teaching Assistants 
-  Mentored student groups working on empirical research projects related to health disparities
+I designed an original, undergraduate-level summer course discussing the social scientific scholarship on the status and origins of health inequities in the United States. I evaluated applications for the course, selecting a cohort of 30 students. I also recruited, designed ASE contracts for, and coordinated a team of two Teaching Assistants. Throughout the course, I mentored student groups working on empirical research projects related to health disparities.
 
 Heading 1
 ======
