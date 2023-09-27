@@ -1,5 +1,5 @@
 ---
-title: "ECON 10A: Intermediate Microeconomic Theory and ECON 5: Statistics for Economics "
+title: "ECON 10A: Intermediate Microeconomic Theory and ECON 5: Statistics for Economics"
 collection: teaching
 type: "Head Teaching Assistant"
 permalink: /teaching/2015-spring-teaching-1
