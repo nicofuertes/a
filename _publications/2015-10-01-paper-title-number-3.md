@@ -1,5 +1,5 @@
 ---
-title: "Anti-Black Hate Crimes and Black-White Health Gap"
+title: "JOB MARKET PAPER: Anti-Black Hate Crimes and Black-White Health Gap"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
