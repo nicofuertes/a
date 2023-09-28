@@ -3,7 +3,6 @@ title: "INT 93LS: Pain and Prejudice - The Role of Discrimination in Generating 
 collection: teaching
 type: "Instructor of Record and Course Author"
 permalink: /teaching/2015-spring-teaching-1
-date:  July 2023
 venue: "UC Santa Barbara"
 ---
 
