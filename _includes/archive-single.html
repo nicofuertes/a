@@ -42,7 +42,7 @@
     {% endif %}
 
         {% if post.collection == 'teaching' %}
-          <p> {{ post.type }}, <i>{{ post.venue }}</i> </p>
+          <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.qrts }} </p>
         {% elsif post.permalink == '/hate_crime' %}
           <p>
             
