@@ -3,7 +3,7 @@ title: "ECON 10A: Intermediate Microeconomic Theory and ECON 107A: History of Ec
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/2015-spring-teaching-1
-qrts: "6 quarters"
+qrts: "Fall 2018, Winter 2029, Spring 2019, Fall 2019, Winter 2020, Spring 2020"
 venue: "UC Santa Barbara"
 ---
 
