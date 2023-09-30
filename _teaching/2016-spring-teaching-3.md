@@ -3,7 +3,7 @@ title: "ECON 5: Statistics for Economics"
 collection: teaching
 type: "Instructor of Record and Course Co-Author"
 permalink: /teaching/2015-spring-teaching-1
-date: 2022-01-01
+qrts: "4 quarters"
 venue: "UC Santa Barbara"
 ---
 
