@@ -7,7 +7,7 @@ qrts: "Fall 2018, Winter 2029, Spring 2019, Fall 2019, Winter 2020, Spring 2020"
 venue: "UC Santa Barbara"
 ---
 
- I led in-person discussion sections with up to 25 undergraduate students and held held in-person and Zoom office hours. I graded exams and essay assignments as well as proctored exams.
+ I led in-person discussion sections with up to 25 undergraduate students and held in-person and Zoom office hours. I graded exams and essay assignments as well as proctored exams.
 
 
 
