@@ -3,7 +3,7 @@ title: "ECON 10A: Intermediate Microeconomic Theory and ECON 5: Statistics for E
 collection: teaching
 type: "Head Teaching Assistant"
 permalink: /teaching/2015-spring-teaching-1
-date: 2021-01-01
+qrts: "7 quarters"
 venue: "UC Santa Barbara"
 ---
 
