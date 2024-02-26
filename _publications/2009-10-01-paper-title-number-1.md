@@ -3,4 +3,4 @@ title: "Leaderboards and Student Study Plans: Evidence from a Field Experiment (
 collection: publications
 ---
 
-Paper draft available soon!
+Draft available soon.
